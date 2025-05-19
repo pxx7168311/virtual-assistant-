@@ -1,1 +1,7 @@
-
+spacy
+transformers
+scikit-learn
+opencv-python
+python-telegram-bot
+pandas
+python-dotenv
